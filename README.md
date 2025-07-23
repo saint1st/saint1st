@@ -23,11 +23,3 @@ Feel free to explore my projects, connect with me, or just say hi!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saint1st&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=saint1st&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
