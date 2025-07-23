@@ -1,3 +1,12 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+I'm Darkhan, a young and curious **Machine Learning Engineer** who's just getting started on this exciting journey.  
+I love solving problems with code, exploring data, and constantly learning new things.
+
+> 🚀 Currently learning, building, and growing in the world of AI and software development.
+
+Feel free to explore my projects, connect with me, or just say hi!
+
 # 💫 About Me:
 🔭 I’m currently studying at Politecnico di Milano
 
